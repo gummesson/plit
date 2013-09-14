@@ -1,0 +1,9 @@
+{
+  "indent": 2,
+  "quotmark": true,
+  "trailing": true,
+  "node": true,
+  "globals": {
+    "module": true
+  }
+}

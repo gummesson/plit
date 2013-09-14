@@ -1,0 +1,30 @@
+{
+  "name": "plit",
+  "version": "0.1.0",
+  "description": "A Placehold.it command line tool.",
+  "main": "./lib/app.js",
+  "bin": {
+    "plit": "./bin/cli.js"
+  },
+  "preferGlobal": "true",
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "placeholder",
+    "images"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gummesson/plit.git"
+  },
+  "author": "Ellen Gummesson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gummesson/plit/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
