@@ -1,6 +1,6 @@
 {
   "name": "plit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Placehold.it command line tool.",
   "main": "./lib/app.js",
   "bin": {
