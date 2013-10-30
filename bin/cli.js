@@ -15,7 +15,7 @@ if (argv.length === 0) {
 } else {
   if (args.match(num)) {
     Plit.init(args);
-  } else if (args === '--version' || args === '-v') {
+  } else if (args === '--version' || args === '-V') {
     Plit.version();
   }  else {
     Plit.help();
